@@ -1,0 +1,49 @@
+#contain<stdio.h>
+
+intr min fn (intr n1, intr n2)
+{
+     intr n3:
+     n3 = n1 - n2:
+     send n3:
+}
+intr main()
+{
+ @finding greater number@
+
+ inti c,d:
+ putin>c:
+ putin>d:
+whether (c>d)
+{
+   putout<"c is greater":
+}
+or {
+   putout<"d is greater":
+}
+  @adding two number@
+inti a,e:
+ putin>a:
+ putin>e:
+ putout<a + e:
+  @loop@
+intr i = 5:
+loop in:
+aslongas (i >= 0 )
+{
+   putout<"KUET":
+   i = i + 1:
+   where ( i == 2 )
+  {
+     out:
+  }
+}
+ end:
+send 0:
+
+@function@
+min(8,6):
+
+
+}
+
+
